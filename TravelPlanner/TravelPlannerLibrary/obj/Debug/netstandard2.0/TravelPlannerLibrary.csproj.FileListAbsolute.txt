@@ -1,0 +1,8 @@
+D:\Texte\5_AHIF\C#\travel-planner-api-GusenbauerMax\TravelPlanner\TravelPlannerLibrary\bin\Debug\netstandard2.0\TravelPlannerLibrary.deps.json
+D:\Texte\5_AHIF\C#\travel-planner-api-GusenbauerMax\TravelPlanner\TravelPlannerLibrary\bin\Debug\netstandard2.0\TravelPlannerLibrary.dll
+D:\Texte\5_AHIF\C#\travel-planner-api-GusenbauerMax\TravelPlanner\TravelPlannerLibrary\bin\Debug\netstandard2.0\TravelPlannerLibrary.pdb
+D:\Texte\5_AHIF\C#\travel-planner-api-GusenbauerMax\TravelPlanner\TravelPlannerLibrary\obj\Debug\netstandard2.0\TravelPlannerLibrary.csprojAssemblyReference.cache
+D:\Texte\5_AHIF\C#\travel-planner-api-GusenbauerMax\TravelPlanner\TravelPlannerLibrary\obj\Debug\netstandard2.0\TravelPlannerLibrary.AssemblyInfoInputs.cache
+D:\Texte\5_AHIF\C#\travel-planner-api-GusenbauerMax\TravelPlanner\TravelPlannerLibrary\obj\Debug\netstandard2.0\TravelPlannerLibrary.AssemblyInfo.cs
+D:\Texte\5_AHIF\C#\travel-planner-api-GusenbauerMax\TravelPlanner\TravelPlannerLibrary\obj\Debug\netstandard2.0\TravelPlannerLibrary.dll
+D:\Texte\5_AHIF\C#\travel-planner-api-GusenbauerMax\TravelPlanner\TravelPlannerLibrary\obj\Debug\netstandard2.0\TravelPlannerLibrary.pdb
